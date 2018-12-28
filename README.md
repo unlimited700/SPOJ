@@ -1,4 +1,1 @@
-SPOJ
-====
-
-SPOJ problem solution
+//INIT
